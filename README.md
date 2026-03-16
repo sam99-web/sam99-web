@@ -171,7 +171,7 @@ class NdeyeFatouSamb:
 
 | 🏫 Établissement | 📜 Diplôme | 📅 Période |
 |:---|:---|:---:|
-| **Holberton School** | Développement Informatique — Ingénierie Logicielle | 2024 — En cours |
+| **Holberton School** | Développement Informatique — Ingénierie Logicielle | 2025 — En cours |
 | **Nanterre Université** | Licence 3 — Sociologie | 2021 – 2024 |
 | **Univ. Cheikh Anta Diop** | Bachelor — Communication | 2018 |
 
