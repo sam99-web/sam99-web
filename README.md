@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sam99-web.png" width="120" height="120" style="border-radius:50%;" alt="Keish"/>
 
-# Salut, je suis Keish 👋
+# Salut, je suis NDEYE FATOU SAMB 👋
 
 Étudiante en développement Fullstack à **Holberton School France**
 
